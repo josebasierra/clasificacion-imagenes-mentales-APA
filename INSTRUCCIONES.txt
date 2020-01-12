@@ -1,0 +1,4 @@
+El código a ejecutar se encuentra  en un jupyter notebook script.ipynb, organizado en secciones. Simplemente ejecutar en orden las celdas. 
+En la sección de los modelos, para cada modelo hay 2 celdas, una para entrenar el modelo de nuevo, y la otra para cargar un modelo ya existente. 
+En la carpeta models estan todos los modelos guardados para evitar ejecutarlos de nuevo. 
+(Importante tener la version 0.22.0 de scikit-learn para cargar los modelos correctamente, en caso de duda ejecutar la 1a celda del notebook de requirements.txt)  
